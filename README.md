@@ -18,6 +18,7 @@ A curated list of some research papers, datasests and tools for applying machine
 - Fitting Empirical Fundamental Diagrams of Road Traffic: A Comprehensive Review and Comparison of Models Using an Extensive Data Set
 - Boarding Time Estimation Using the Passenger Density Distribution on the Bus
 - Using an Interpretable Machine Learning Framework to Understand the Relationship of Mobility and Reliability Indices on Truck Drivers' Route Choices
+- Spatial Data Quality in the Internet of Things: Management, Exploitation, and Prospects
 ### Paper-Graph neural netork
 ## Traffic public datasets
 ## Top related journal and conference
