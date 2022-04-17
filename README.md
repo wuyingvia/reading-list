@@ -5,8 +5,10 @@ A curated list of some research papers, datasests and tools for applying machine
   - Intelligent transportation system
   - Graph neural network
 - Traffic public datasets
+  - https://github.com/deepkashiwa20/DL-Traff-Graph
 - Top related journal 
 - Top related conference
+  - https://wycwiki.readthedocs.io/en/latest/_static/research/ccf.html
 - Talks and Tutorials
   - How to do a research presentation
   - Deep learning Tutorial
