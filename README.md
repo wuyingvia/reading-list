@@ -15,6 +15,8 @@ A curated list of some research papers, datasests and tools for applying machine
 - opensource
   - https://github.com/deepkashiwa20/DL-Traff-Graph
 ## State-of-the-art paper
+### 2022
+[survey][DL-Traff: Survey and Benchmark of Deep Learning Models forUrban Traffic Prediction](https://dl.acm.org/doi/pdf/10.1145/3459637.3482000)
 ## Traffic public datasets
 ## Top related journal and conference
 - [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
