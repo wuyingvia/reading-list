@@ -20,6 +20,9 @@ A curated list of some research papers, datasests and tools for applying machine
 ## Traffic public datasets
 ## Top related journal and conference
 - [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
+- Computer-Aided Civil and Infrastructure Engineering
+- Transportation Research Part C: Emerging Technologies
+- IEEE Internet of Things Journal
 ## Talks and Tutorials
 - [How to do a research presentation](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
 - Deep learning Tutorial
